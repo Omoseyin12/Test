@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\tomisin\bin\Debug\net6.0\tomisin.exe
+C:\Users\HP\Desktop\tomisin\bin\Debug\net6.0\tomisin.deps.json
+C:\Users\HP\Desktop\tomisin\bin\Debug\net6.0\tomisin.runtimeconfig.json
+C:\Users\HP\Desktop\tomisin\bin\Debug\net6.0\tomisin.dll
+C:\Users\HP\Desktop\tomisin\bin\Debug\net6.0\tomisin.pdb
+C:\Users\HP\Desktop\tomisin\obj\Debug\net6.0\tomisin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\tomisin\obj\Debug\net6.0\tomisin.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\tomisin\obj\Debug\net6.0\tomisin.AssemblyInfo.cs
+C:\Users\HP\Desktop\tomisin\obj\Debug\net6.0\tomisin.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\tomisin\obj\Debug\net6.0\tomisin.dll
+C:\Users\HP\Desktop\tomisin\obj\Debug\net6.0\refint\tomisin.dll
+C:\Users\HP\Desktop\tomisin\obj\Debug\net6.0\tomisin.pdb
+C:\Users\HP\Desktop\tomisin\obj\Debug\net6.0\tomisin.genruntimeconfig.cache
+C:\Users\HP\Desktop\tomisin\obj\Debug\net6.0\ref\tomisin.dll
