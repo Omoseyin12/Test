@@ -249,7 +249,7 @@ namespace omoseyin
             for (int i = 0; i < length; i++)
                 s = String.Concat(s, random.Next(10).ToString());
 
-
+            Console.WriteLine("this is a new branch");
             return s;
         }
 
